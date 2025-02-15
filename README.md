@@ -5,8 +5,7 @@ Achieved impressive performance metrics:
 99.68% availability
 0.35 second response time
 
-# Due to an
-
+Tech Stack (ResNet50, MobileNetV2, Flask, Kubernetes) 
 
 # Deploying machine learning systems
 
