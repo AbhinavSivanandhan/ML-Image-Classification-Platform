@@ -1,17 +1,13 @@
-Deep Learning Image Classification App (March 2024)
-Developed and deployed a deep learning image classification app using Flask, Docker, Kubernetes, and Chameleon Cloud, implementing container orchestration, load balancing, and dynamic scaling.
-Achieved impressive performance metrics:
-28.54 transactions per second
-99.68% availability
-0.35 second response time
+Deep Learning Image Classification App (ResNet50, MobileNetV2, Flask, Kubernetes) Built and deployed an image classification application using deep learning models. Utilized Kubernetes for container orchestration and dynamic scaling with self-healing, achieving 99.68% availability, 0.35 second average response time and high performance with 28.54 transactions/sec. (Mar 2024).
 
 Tech Stack (ResNet50, MobileNetV2, Flask, Kubernetes) 
 
+#According to NYU-Academic-Policies, model-specific content has been redacted for plagiarism reasons.
+
 # Deploying machine learning systems
 
-Congratulations! You've been offered an exciting and lucrative new position. You're going to be a machine learning engineer at a small startup company called GourmetGram. They are developing an online photo sharing community focused on food.
+Online photo sharing community focused on food.
 
-On your first day at work, you are given the following brief:
 
 > When someone uploads a photo of food to our site, it should be tagged and categorized automatically, right?
 >
